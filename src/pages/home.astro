@@ -1,15 +1,21 @@
 ---
-import Tagline from '../components/tagline.astro';
+import Tagline from "../components/tagline.astro";
+import homeAsset from "../assets/Home-asset.png";
 ---
-<!DOCTYPE html>
+
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <Tagline />
-    <img src="../assets/Home-assets.png" alt="Home Image" class="w-full h-auto mt-6 rounded-lg shadow-md">
-    <slot />
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+        <Tagline />
+        <img
+        src={homeAsset.src}
+        alt="Home Image"
+        class="w-170 h-auto mt-6 rounded-lg shadow-md "
+        />
+        <slot />
+    </body>
 </html>
