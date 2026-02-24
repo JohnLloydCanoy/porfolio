@@ -10,12 +10,14 @@ import homeAsset from "../assets/Home-asset.png";
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </head>
     <body>
-        <Tagline />
+        <div class="flex items-center gap-6 flex-col md:flex-row">
+            <Tagline />
         <img
         src={homeAsset.src}
         alt="Home Image"
         class="w-170 h-auto mt-6 rounded-lg "
         />
-        <slot />
+        </div>
+        
     </body>
 </html>
