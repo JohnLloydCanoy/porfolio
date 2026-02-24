@@ -1,21 +1,17 @@
 ---
-import '../styles/global.css'
 import NavButton from './buttons/a-button.astro';
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>John Lloyd Canoy Navigation</title>
-</head>
-<body>
-    <div class="p-4   rounded-lg border border-gray-200 flex flex-row  gap-4 items-center mr-5 ml-5" >
-        <h1>John Lloyd Canoy Navigation</h1>
+<nav class="bg-[#333] text-[#e8e7e7] border-b border-gray-700 px-6 py-4 flex flex-row items-center justify-between sticky top-0 z-50">
+    
+    <a href="/" class="text-xl font-bold tracking-wider hover:text-white transition-colors duration-200">
+        JOHN<span class="text-blue-500">LLOYD</span>
+    </a>
+
+    <div class="flex flex-row gap-2 items-center">
         <NavButton href="#about">About</NavButton>
         <NavButton href="#projects">Projects</NavButton>
         <NavButton href="#contact">Contact</NavButton>
     </div>
-</body>
-</html>
+
+</nav>
