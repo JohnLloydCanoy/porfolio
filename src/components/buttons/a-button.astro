@@ -1,11 +1,11 @@
 ---
 const { href } = Astro.props;
-import '/src/styles/global.css'
+import "/src/styles/global.css";
 ---
 
-<a 
-    href={href} 
-    class="px-4 py-2 text-sm font-medium  hover:text-[#333] hover:bg-gray-100 rounded-md transition-colors duration-200"   
+<a
+  href={href}
+  class="px-4 py-2 text-sm font-medium hover:text-[#333] hover:bg-gray-100 rounded-md transition-colors duration-200 no-underline hover:no-underline"
 >
-    <slot />
+  <slot />
 </a>
