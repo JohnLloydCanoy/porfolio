@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css'
+import NavButton from './buttons/a-button.astro';
 ---
 
 <!DOCTYPE html>
@@ -12,7 +13,9 @@ import '../styles/global.css'
 <body>
     <div class="p-4   rounded-lg border border-gray-200">
         <h1>John Lloyd Canoy Navigation</h1>
-        
+        <NavButton href="/about">About</NavButton>
+        <NavButton href="/projects">Projects</NavButton>
+        <NavButton href="/contact">Contact</NavButton>
     </div>
 </body>
 </html>
