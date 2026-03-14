@@ -12,3 +12,5 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 - **Fully Responsive:** Fluid layouts that scale perfectly from mobile devices to ultrawide desktop monitors.
 - **Dynamic Sections:**
 - **Projects Showcase:** Highlights my core work including *ASAP*, *Project A.N.I.*, *STAYNET*, and *DocuLens*.
+
+- **Skills Grid:** A scalable overview of my frontend, backend, and design toolkit.
