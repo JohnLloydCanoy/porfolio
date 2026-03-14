@@ -46,3 +46,5 @@ cd porfolio
 \`\`\`bash
 npm install
 \`\`\`
+
+### 4. Start the development server
