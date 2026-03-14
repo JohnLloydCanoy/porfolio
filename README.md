@@ -19,3 +19,5 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 - **Direct Contact:** Integrated form and direct communication channels.
 
 ---
+
+## 🛠️ Tech Stack
