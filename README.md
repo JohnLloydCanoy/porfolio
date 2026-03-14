@@ -59,3 +59,4 @@ The site will now be running at `http://localhost:4321`.
 I'm **John Lloyd D. Canoy**, an Information Technology student at the University of Science and Technology of Southern Philippines (USTP) in Cagayan de Oro City. I specialize in full-stack development (Next.js, Python, Supabase, Java) and UI/UX design. I am driven by the desire to build innovative solutions that solve real-world problems.
 
 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/john-lloyd-canoy)
