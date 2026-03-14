@@ -25,3 +25,4 @@ This portfolio was designed and developed from scratch using:
 - **Framework:** [Astro](https://astro.build/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
+- **Design Tools:** Figma & Adobe Photoshop
