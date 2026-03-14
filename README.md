@@ -28,3 +28,5 @@ This portfolio was designed and developed from scratch using:
 - **Design Tools:** Figma & Adobe Photoshop
 
 ---
+
+## 💻 Local Development
