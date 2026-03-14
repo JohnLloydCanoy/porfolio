@@ -17,3 +17,5 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 
 - **Leadership Timeline:** Highlights my roles at the University Student Government and as Founder of the 4-H Club chapter.
 - **Direct Contact:** Integrated form and direct communication channels.
+
+---
