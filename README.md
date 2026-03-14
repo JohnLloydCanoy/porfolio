@@ -6,3 +6,5 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 ---
 
 ## ✨ Features
+
+- **Modern UI/UX:** Dark-themed aesthetic utilizing glassmorphism, smooth CSS transitions, and interactive hover states.
