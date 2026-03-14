@@ -5,3 +5,4 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 
 ---
 
+## ✨ Features
