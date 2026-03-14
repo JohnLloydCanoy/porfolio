@@ -52,4 +52,5 @@ npm install
 npm run dev
 \`\`\`
 
+The site will now be running at `http://localhost:4321`.
 ---
