@@ -38,3 +38,6 @@ git clone https://github.com/JohnLloydCanoy/porfolio.git
 \`\`\`
 
 ### 2. Navigate into the directory
+\`\`\`bash
+cd porfolio
+\`\`\`
