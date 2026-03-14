@@ -26,3 +26,5 @@ This portfolio was designed and developed from scratch using:
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
 - **Design Tools:** Figma & Adobe Photoshop
+
+---
