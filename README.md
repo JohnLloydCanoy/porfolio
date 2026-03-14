@@ -11,3 +11,4 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 - **Lightning Fast:** Built with Astro's island architecture, shipping zero JavaScript by default for maximum performance.
 - **Fully Responsive:** Fluid layouts that scale perfectly from mobile devices to ultrawide desktop monitors.
 - **Dynamic Sections:**
+- **Projects Showcase:** Highlights my core work including *ASAP*, *Project A.N.I.*, *STAYNET*, and *DocuLens*.
