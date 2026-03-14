@@ -31,3 +31,5 @@ This portfolio was designed and developed from scratch using:
 
 ## 💻 Local Development
 Want to run this project locally to explore the code? Follow these steps:
+
+### 1. Clone the repository
