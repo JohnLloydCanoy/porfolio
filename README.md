@@ -41,3 +41,5 @@ git clone https://github.com/JohnLloydCanoy/porfolio.git
 \`\`\`bash
 cd porfolio
 \`\`\`
+
+### 3. Install dependencies
