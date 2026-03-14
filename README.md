@@ -23,3 +23,4 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 ## 🛠️ Tech Stack
 This portfolio was designed and developed from scratch using:
 - **Framework:** [Astro](https://astro.build/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
