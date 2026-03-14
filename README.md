@@ -54,3 +54,5 @@ npm run dev
 
 The site will now be running at `http://localhost:4321`.
 ---
+
+## 👨‍💻 About the Developer
