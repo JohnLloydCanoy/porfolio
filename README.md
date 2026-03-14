@@ -21,3 +21,4 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 ---
 
 ## 🛠️ Tech Stack
+This portfolio was designed and developed from scratch using:
