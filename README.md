@@ -9,3 +9,4 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 
 - **Modern UI/UX:** Dark-themed aesthetic utilizing glassmorphism, smooth CSS transitions, and interactive hover states.
 - **Lightning Fast:** Built with Astro's island architecture, shipping zero JavaScript by default for maximum performance.
+- **Fully Responsive:** Fluid layouts that scale perfectly from mobile devices to ultrawide desktop monitors.
