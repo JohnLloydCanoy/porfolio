@@ -14,3 +14,5 @@ Welcome to the repository for my personal portfolio! This site serves as a centr
 - **Projects Showcase:** Highlights my core work including *ASAP*, *Project A.N.I.*, *STAYNET*, and *DocuLens*.
 
 - **Skills Grid:** A scalable overview of my frontend, backend, and design toolkit.
+
+- **Leadership Timeline:** Highlights my roles at the University Student Government and as Founder of the 4-H Club chapter.
