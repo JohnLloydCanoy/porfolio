@@ -43,7 +43,7 @@ cd porfolio
 ```
 
 ### 3. Install dependencies
-`\`\`bash
+``\`bash
 npm install
 \`\`\`
 
