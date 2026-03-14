@@ -66,3 +66,4 @@ I'm **John Lloyd D. Canoy**, an Information Technology student at the University
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
