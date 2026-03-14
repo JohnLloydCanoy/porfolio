@@ -60,3 +60,4 @@ I'm **John Lloyd D. Canoy**, an Information Technology student at the University
 
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/john-lloyd-canoy)
+- [GitHub](https://github.com/JohnLloydCanoy)
